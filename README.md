@@ -2,10 +2,10 @@
 
 ## Build
 ```sh
-    npm run build
+npm run build
 ```
 
 ## Run
 ```sh
-    ./build/main.js YYYY-MM-DD
+./build/main.js YYYY-MM-DD
 ```
