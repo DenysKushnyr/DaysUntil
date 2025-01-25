@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "tsc && chmod +x build/main.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10"
+  }
+}
