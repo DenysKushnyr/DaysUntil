@@ -31,7 +31,7 @@ func main() {
 	var desiredDate, err = time.Parse("2006-01-02", os.Args[1])
 
 	if err != nil {
-		printError("Invalid date format.\n")
+		printError("Invalid date format.\n\n")
 		printHelp()
 		os.Exit(0)
 	}
